@@ -1,1 +1,1 @@
-function updatepage(){var m="Page updated "+document.laaass
+function updatepage(){alert("sdasd");}
